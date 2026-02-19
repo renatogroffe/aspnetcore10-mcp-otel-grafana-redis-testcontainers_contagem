@@ -20,3 +20,9 @@ Exemplo de arquivo **mcp.json**:
 Testes via chat do GitHub Copilot:
 
 ![Testes com VS Code + GitHub Copilot](img/vscode-01.png)
+
+## Observabilidade
+
+Traces exportados para o Grafana Tempo:
+
+![Exemplo de Trace](img/tempo-01.png)
